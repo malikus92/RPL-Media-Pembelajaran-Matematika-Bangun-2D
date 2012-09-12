@@ -6,3 +6,7 @@ Anggota Utama dari pengembangan perangkat lunak ini adalah :
 4. Muh. Zaenul Hilmi 		: Implementation
 5. Malikus Shofa Muhammad	: Manual & Implementation
 
+AGENDA MINGGU INI : JDK, EMULATOR ANDROID, DKK harus sudah terinstal di laptop masing2 anggota, demi kelancaran kedepannya :)
+                    kalo bisa, sekalian kita belajar bareng dasar2 penggunaannya. 
+                    terimakasih sebelumnya.
+                    NB : temen2 yang lain diharapkan segera "fork" repo ini. thankyousomuch :*
